@@ -6,11 +6,11 @@
 
 RF system architecture can be implemented using RF System models available in the Analog/RF library
 
-<img width="373" height="273" alt="image" src="https://github.com/user-attachments/assets/fc24ae21-e73c-4776-afd1-4bb93913eb8d" />
+<img width="573" height="273" alt="image" src="https://github.com/user-attachments/assets/fc24ae21-e73c-4776-afd1-4bb93913eb8d" />
 
-<img width="373" height="273" alt="image" src="https://github.com/user-attachments/assets/9748f6b7-e92f-4719-a71b-9392384af431" />
+<img width="573" height="273" alt="image" src="https://github.com/user-attachments/assets/9748f6b7-e92f-4719-a71b-9392384af431" />
 
-<img width="373" height="273" alt="image" src="https://github.com/user-attachments/assets/82e56851-716a-455f-aa6c-9a25ebf1b593" />
+<img width="573" height="273" alt="image" src="https://github.com/user-attachments/assets/82e56851-716a-455f-aa6c-9a25ebf1b593" />
 
 ## OUTPUT:
 
